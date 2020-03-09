@@ -1,6 +1,7 @@
 .buy-button{
     background-color: black;
     color:white;
+    border-radius: 10px;
 }
 
 
@@ -17,4 +18,14 @@
 .cat{
     text-align: center;
     text-decoration: underline;
+}
+
+.carousel{
+    background-image: url("hot-gadgets/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.nav-item{
+    margin-top: 0px;
 }
